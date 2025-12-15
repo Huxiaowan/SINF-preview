@@ -100,7 +100,7 @@ SINF treats a noisy video as observations of an underlying **continuous spatiote
 
 ### 1) Clone
 ```bash
-git clone <YOUR_REPO_URL>
+git clone [<YOUR_REPO_URL>](https://github.com/Huxiaowan/SINF-preview)
 cd SINF
 ```
 
